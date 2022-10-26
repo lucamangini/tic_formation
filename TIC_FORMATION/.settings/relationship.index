@@ -1,5 +1,36 @@
 [ {
   "baseItem" : {
+    "id" : "_7ArYoFUoEe2QltasYsfJWg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_EMz7YFUFEe2QltasYsfJWg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KWxqoFUCEe2QltasYsfJWg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jXkOkFUCEe2QltasYsfJWg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_EMz7YFUFEe2QltasYsfJWg - MAIN_ACTIVITY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_KWxqoFUCEe2QltasYsfJWg - src_product",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jXkOkFUCEe2QltasYsfJWg - trg_prod_family",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_VKgrQFUIEe2QltasYsfJWg",
     "version" : "0.1",
     "type" : "job"
