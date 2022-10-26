@@ -19,6 +19,29 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_czSy0FUOEe2QltasYsfJWg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_KWxqoFUCEe2QltasYsfJWg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jXkOkFUCEe2QltasYsfJWg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_KWxqoFUCEe2QltasYsfJWg - src_city",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jXkOkFUCEe2QltasYsfJWg - trg_city",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_yZUPIFUFEe2QltasYsfJWg",
     "version" : "0.1",
     "type" : "job"
