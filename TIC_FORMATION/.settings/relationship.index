@@ -67,6 +67,10 @@
     "version" : "Latest",
     "type" : "schema"
   }, {
+    "id" : "_KWxqoFUCEe2QltasYsfJWg - src_customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
     "id" : "_jXkOkFUCEe2QltasYsfJWg - trg_customer",
     "version" : "Latest",
     "type" : "schema"
