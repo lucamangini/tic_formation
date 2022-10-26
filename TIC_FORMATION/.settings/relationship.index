@@ -9,11 +9,19 @@
     "version" : "Latest",
     "type" : "property"
   }, {
+    "id" : "_jXkOkFUCEe2QltasYsfJWg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "_KWxqoFUCEe2QltasYsfJWg - src_order_lines",
     "version" : "Latest",
     "type" : "schema"
   }, {
     "id" : "_KWxqoFUCEe2QltasYsfJWg - src_orders",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jXkOkFUCEe2QltasYsfJWg - trg_sales",
     "version" : "Latest",
     "type" : "schema"
   } ]
