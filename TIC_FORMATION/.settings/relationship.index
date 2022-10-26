@@ -128,10 +128,6 @@
     "id" : "_jXkOkFUCEe2QltasYsfJWg - trg_prod_family",
     "version" : "Latest",
     "type" : "schema"
-  }, {
-    "id" : "_jXkOkFUCEe2QltasYsfJWg - trg_product",
-    "version" : "Latest",
-    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
