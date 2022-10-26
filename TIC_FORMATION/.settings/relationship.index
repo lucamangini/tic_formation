@@ -24,10 +24,6 @@
     "id" : "_KWxqoFUCEe2QltasYsfJWg - src_product",
     "version" : "Latest",
     "type" : "schema"
-  }, {
-    "id" : "_jXkOkFUCEe2QltasYsfJWg - trg_prod_family",
-    "version" : "Latest",
-    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
